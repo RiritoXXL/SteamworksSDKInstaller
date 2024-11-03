@@ -72,7 +72,7 @@ begin
     BASS_Start();
     mp3handle := BASS_StreamCreateFile(FALSE, PAnsiChar(mp3Name), 0, 0, 0, 0, BASS_SAMPLE_LOOP);
     BASS_ChannelPlay(mp3handle, FALSE);
-    LoadSkin(ExpandConstant('{tmp}\Steam.cjstyles'), '');
+    LoadSkin(ExpandConstant('{tmp}\Steam.cjstyles'), 'NormalSteam.ini');
 end;
 procedure DeinitializeSetup();
 begin
