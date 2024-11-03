@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 239 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SteamworksSDK-AutoConfiguration.vcxproj -> C:\Users\aqax\source\repos\SteamworksSDK-AutoConfiguration\x64\Release\SteamworksSDK-AutoConfiguration.exe
